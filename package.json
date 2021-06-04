@@ -1,0 +1,24 @@
+{
+  "name": "dd-paths-to-tree",
+  "version": "1.0.0",
+  "description": "Convert a list of path strings to tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaeltonDias/dd-paths-to-tree.git"
+  },
+  "keywords": [
+    "Paths",
+    "Path",
+    "Tree"
+  ],
+  "author": "Daelton Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaeltonDias/dd-paths-to-tree/issues"
+  },
+  "homepage": "https://github.com/DaeltonDias/dd-paths-to-tree#readme"
+}
